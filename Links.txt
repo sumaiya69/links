@@ -1,0 +1,6 @@
+https://git-scm.com/download/win
+https://www.chalkstreet.com/git-collaboration-tutorial/
+http://rypress.com/tutorials/git/index
+https://marklodato.github.io/visual-git-guide/index-en.html
+https://www.atlassian.com/git/
+https://bitbucket.org/
